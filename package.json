@@ -1,0 +1,28 @@
+{
+  "name": "breakout-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaYaDa/breakout.git"
+  },
+  "keywords": [
+    "hayada",
+    "breakout",
+    "vanillajs"
+  ],
+  "author": "HaYaDa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HaYaDa/breakout/issues"
+  },
+  "homepage": "https://github.com/HaYaDa/breakout#readme"
+}
